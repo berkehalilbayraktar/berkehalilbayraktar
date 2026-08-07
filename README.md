@@ -1,16 +1,61 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+## Berke Halil Bayraktar
 
-## Hi! 👨‍🎓, I'm founder of Arcaedia 🚀 and KAM ✍!
-- 🔭 I’m currently working on a large and special AI application and LLMs .
-- 🌱 I’m currently learning AI techs 😂
-- 👯 I’m looking to collaborate with other Mern Stack developers 👩‍💻 and web designers 🎨
-- ⚡ Fun facts: I love to ride motorcycle 🛵, play strategy games ♟, play football ⚽
+**[Arcaedia](https://arcaedia.com)** kurucusu — kalıcı olanı inşa eden küçük bir stüdyo.
+Ürünü baştan sona üstleniyorum: tasarım, kod, metin ve yayın.
 
-## What I'm doing now:
-I'm developing and learning Custon AI projects with Cursor, N8N, Make, Airtable, LLM APIs 🚀, sharing useful information on LinkedIn and Youtube for developers and founders 📃 
+Şu an **[KAM](https://arcaedia.com/kam)** üzerinde çalışıyorum — *Kişisel Asistan Modeli*,
+tek başına çalışanlar için bir süreklilik motoru. Aklındakini yaz; KAM toparlar ve sıradaki
+küçük adımı getirir. Vaadi basit: *"Ben toparlarım, sen unut."*
 
+### Çalıştığım yığın
 
-### GitHub Analytics 📊
+`TypeScript` · `Next.js` · `React` · `Tailwind CSS` · `Supabase / Postgres` · `Vercel` · `n8n` · LLM API'leri
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=berkeehalil&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkeehalil&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+### Yayında olanlar
+
+| Canlı | Ne? |
+| --- | --- |
+| [arcaedia.com](https://arcaedia.com) | Arcaedia — iki dilli (TR/EN) stüdyo sitesi |
+| [berkehalilbayraktar.com](https://berkehalilbayraktar.com) | Kişisel site ve iki dilli blog: kişisel gelişim, kitap analizleri |
+| [ozsebanyo.com](https://ozsebanyo.com) | Özse Banyo — duş kabin sistemleri, Samsun |
+| [taseverikli.com](https://taseverikli.com) | Taşev Kafe & Restoran — Erikli / Samsun |
+
+Repolarımın çoğu özel ürün ve müşteri işi — yukarıdaki bağlantılar canlı hâlleri.
+
+### Bağlantılar
+
+[Web sitesi](https://berkehalilbayraktar.com) ·
+[LinkedIn](https://www.linkedin.com/in/berkehalilbayraktar) ·
+[YouTube](https://www.youtube.com/@berkehalilbayraktar1) ·
+[X](https://x.com/berkehbayraktar)
+
+> Dream it, write it down, get feedback, publish it.
+
+---
+
+<details>
+<summary><b>English</b></summary>
+
+<br>
+
+Founder of **[Arcaedia](https://arcaedia.com)** — a small studio building things meant to last.
+I take products end to end: design, code, copy and launch.
+
+Currently building **[KAM](https://arcaedia.com/kam)** — *Kişisel Asistan Modeli*, a continuity
+engine for people who work alone. Write down whatever is on your mind; KAM sorts it out and hands
+you the next small step. The promise: *"I'll keep track, you can forget."*
+
+**Stack:** `TypeScript` · `Next.js` · `React` · `Tailwind CSS` · `Supabase / Postgres` · `Vercel` · `n8n` · LLM APIs
+
+**Shipped:**
+
+| Live | What it is |
+| --- | --- |
+| [arcaedia.com](https://arcaedia.com) | Arcaedia — bilingual (TR/EN) studio site |
+| [berkehalilbayraktar.com](https://berkehalilbayraktar.com) | Personal site and bilingual blog on personal growth and books |
+| [ozsebanyo.com](https://ozsebanyo.com) | Özse Banyo — shower enclosure systems, Samsun |
+| [taseverikli.com](https://taseverikli.com) | Taşev Kafe & Restoran — Erikli / Samsun |
+
+Most of my repositories are private product and client work — the links above are the live builds.
+
+</details>
