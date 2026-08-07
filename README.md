@@ -15,7 +15,7 @@ küçük adımı getirir. Vaadi basit: *"Ben toparlarım, sen unut."*
 
 | Canlı | Ne? |
 | --- | --- |
-| [KAM](https://kam-kappa.vercel.app) | Kişisel Asistan Modeli — süreklilik motoru, MVP beta pilot · [ürün sayfası](https://arcaedia.com/kam) |
+| [kam.run](https://kam.run) | KAM — Kişisel Asistan Modeli, süreklilik motoru (MVP beta pilot) · [ürün sayfası](https://arcaedia.com/kam) |
 | [arcaedia.com](https://arcaedia.com) | Arcaedia — iki dilli (TR/EN) stüdyo sitesi |
 | [berkehalilbayraktar.com](https://berkehalilbayraktar.com) | Kişisel site ve iki dilli blog: kişisel gelişim, kitap analizleri |
 | [ozsebanyo.com](https://ozsebanyo.com) | Özse Banyo — duş kabin sistemleri, Samsun |
@@ -52,7 +52,7 @@ you the next small step. The promise: *"I'll keep track, you can forget."*
 
 | Live | What it is |
 | --- | --- |
-| [KAM](https://kam-kappa.vercel.app) | Kişisel Asistan Modeli — continuity engine, MVP beta pilot · [product page](https://arcaedia.com/kam) |
+| [kam.run](https://kam.run) | KAM — Kişisel Asistan Modeli, a continuity engine (MVP beta pilot) · [product page](https://arcaedia.com/kam) |
 | [arcaedia.com](https://arcaedia.com) | Arcaedia — bilingual (TR/EN) studio site |
 | [berkehalilbayraktar.com](https://berkehalilbayraktar.com) | Personal site and bilingual blog on personal growth and books |
 | [ozsebanyo.com](https://ozsebanyo.com) | Özse Banyo — shower enclosure systems, Samsun |
