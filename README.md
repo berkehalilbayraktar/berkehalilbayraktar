@@ -26,7 +26,6 @@ Repolarımın çoğu özel ürün ve müşteri işi — yukarıdaki bağlantıla
 ### Bağlantılar
 
 [Web sitesi](https://berkehalilbayraktar.com) ·
-[LinkedIn](https://www.linkedin.com/in/berkehalilbayraktar) ·
 [YouTube](https://www.youtube.com/@berkehalilbayraktar1) ·
 [X](https://x.com/berkehbayraktar)
 
